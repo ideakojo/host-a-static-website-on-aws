@@ -1,0 +1,1 @@
+Aws Static website hosting
