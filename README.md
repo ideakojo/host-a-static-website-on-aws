@@ -1,4 +1,4 @@
-![ATL TEXT](/Host_a_Static_Website_on_AWS (1).png)
+
 
 
 # Static Website Hosting on AWS
@@ -7,7 +7,7 @@ This project demonstrates how to host a static HTML web application on AWS using
 
 ## Project Architecture
 
-![Reference Diagram](URL_to_your_diagram)
+
 
 ### Resources Utilized
 1. **Virtual Private Cloud (VPC)**: Configured with both public and private subnets across two availability zones for network isolation and reliability.
